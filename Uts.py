@@ -19,6 +19,8 @@ elif option ==2:
       print("Uang Kamu Sekarang Berjumlah : Rp.", hasil2)
     else :
       print("Keyword Yang Anda Masukkan Salah, Coba Ulangi lagi!!")
-      uhuuuk
+      elif option3==3:
+        hasil3=uang_kamu=200000
+        print("Uang berjumlah Rp.200.000, Mau nabung Berapa?)
       
       
