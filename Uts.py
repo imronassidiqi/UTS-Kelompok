@@ -22,5 +22,8 @@ elif option ==2:
       elif option3==3:
         hasil3=uang_kamu=200000
         print("Uang berjumlah Rp.200.000, Mau nabung Berapa?)
-      
-      
+        optiont3=int(input("Masukan Jumlah Uang :"))
+         hasil3=uang_kamu+option3
+        print("Jumlah Uang Kamu Sekarang Adalah ",hasil3)
+    else :
+         print("Keyword Anda Salah, Mohon Coba Lagi!")     
