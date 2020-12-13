@@ -19,6 +19,6 @@ elif option ==2:
       print("Uang Kamu Sekarang Berjumlah : Rp.", hasil2)
     else :
       print("Keyword Yang Anda Masukkan Salah, Coba Ulangi lagi!!")
-      
+      uhuuuk
       
       
